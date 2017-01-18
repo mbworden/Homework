@@ -1,0 +1,50 @@
+.btn {
+  height:50px;
+  width:350px;
+  font-weight: bolder;
+  font-style: italic;
+  border-style: groove;
+}
+.row2 {
+  text-align:center;
+  vertical-align:middle;
+  color: red;
+}
+.col-lg-12 {
+  text-align:center;
+  vertical-align:middle;
+  font-size: 24px;
+  color: blue;
+}
+h2 {
+  position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+   font-family: 'Crete Round', serif;
+}
+.navbar-nav {
+  font-family: 'Crete Round', serif;
+}
+.col-lg-12 {
+  font-family: 'Permanent Marker', cursive; font-size: 36px
+}
+.row2 {
+  font-family: 'Permanent Marker', cursive; font-size: 36px
+}
+.fire.gif {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+h2 {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
+#bs-example-navbar-collapse-1 {
+  font-size: 16px
+}
+h22 {
+  text-indent: 50px;
+}
